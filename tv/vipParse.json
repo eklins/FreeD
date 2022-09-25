@@ -20,6 +20,12 @@
     },
     {
       "id": 1,
+      "name": "飞速",
+      "ad": "no",
+      "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "卧龙",
       "ad": "no",
       "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
@@ -35,6 +41,36 @@
       "name": "光速",
       "ad": "no",
       "url": "https://www.guangsujx.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "1080ZYK",
+      "ad": "no",
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "速更源",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "快车",
+      "ad": "no",
+      "url": "https://jiexi.kczyapi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "森林",
+      "ad": "no",
+      "url": "https://sljxsl.com/?url="
     },
     {
       "id": 1,
@@ -74,13 +110,7 @@
     },
     {
       "id": 1,
-      "name": "速更源（失效）",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "新浪XL",
+      "name": "新浪",
       "ad": "no",
       "url": "https://www.xinlangjiexi.com/m3u8/?url="
     },
@@ -101,12 +131,6 @@
       "name": "探探",
       "ad": "no",
       "url": "https://jiexi.ttbfp1.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "自定义19",
-      "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     }
   ]
 }
