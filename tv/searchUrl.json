@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "id":1,
-      "name":"闪电SD",
-      "url":"https://sdzyapi.com/api.php/provide/vod/at/xml/",
-      "cate":"Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Horror,10&&Feature,11&&War,12&&China Series,13&&US Series,14&&Korea Series,15&&Japan Series,16&&Hong Kong Series,17&&Taiwan Series,18&&Thailand Series,19&&Documentary,20&&Suspense,21&&Criminal,22&&Other's Series,23&&China Variety,25&&Korea Variety,26&&Taiwan Variety,27&&US Variety,28&&China Anime,29&&Japan Anime,30&&US Anime,31&&Adventure,38&&Anime Movies,39&&Thriller,40&&Fantasy,43&&Taiwan Anime,44&&❌,45&&Ethic,46&&Concert,47&&❌,48",
-      "click":true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
       "id": 1,
       "name": "if101",
       "url": "http://demo.if101.tv/api.php/provide/vod/at/xml/",
       "cate": "Sport,24&&Documentary,25&&Adventure,28&&Drama,29&&Action,30&&Anime Movie,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Terror,35&&Suspense,36&&Horror,37&&Song & Dance,38&&Disaster,39&&Romance,40&&Crime,41&&Sci-Fi,42&&Classic,43&&Web Movie,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&Singapore & Malaysia Series,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&ASEAN Variety,132&&Hong Kong & Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&ASEAN Anime,139&&Hong Kong & Taiwan Anime,140&&Other's Anime,142",
       "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id":1,
+      "name":"闪电SD",
+      "url":"https://sdzyapi.com/api.php/provide/vod/at/xml/",
+      "cate":"Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Horror,10&&Feature,11&&War,12&&China Series,13&&US Series,14&&Korea Series,15&&Japan Series,16&&Hong Kong Series,17&&Taiwan Series,18&&Thailand Series,19&&Documentary,20&&Suspense,21&&Criminal,22&&Other's Series,23&&China Variety,25&&Korea Variety,26&&Taiwan Variety,27&&US Variety,28&&China Anime,29&&Japan Anime,30&&US Anime,31&&Adventure,38&&Anime Movies,39&&Thriller,40&&Fantasy,43&&Taiwan Anime,44&&❌,45&&Ethic,46&&Concert,47&&❌,48",
+      "click":true,
       "type": "xml",
       "detailUrl": ""
     },
