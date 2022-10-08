@@ -149,6 +149,21 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webPlus": {}
+    },
+    {
+      "name": "Sport Live ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2%E2%80%A2%E5%92%AA%E5%92%95.json",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webPlus": {}
     }
   ]
 }
