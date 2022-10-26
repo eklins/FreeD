@@ -11,19 +11,19 @@
     },
     {
       "id": 1,
-      "name": "if101",
-      "url": "http://demo.if101.tv/api.php/provide/vod/at/xml/",
-      "cate": "Sport,24&&Documentary,25&&Adventure,28&&Drama,29&&Action,30&&Anime Movie,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Terror,35&&Suspense,36&&Horror,37&&Song & Dance,38&&Disaster,39&&Romance,40&&Crime,41&&Sci-Fi,42&&Classic,43&&Web Movie,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&Singapore & Malaysia Series,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&ASEAN Variety,132&&Hong Kong & Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&ASEAN Anime,139&&Hong Kong & Taiwan Anime,140&&Other's Anime,142",
-      "click": true,
+      "name": "无尽WJ",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/at/xml/",
+      "cate":"Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Terror,10&&Feature,11&&War,12&&China Series,13&&Hong Kong Series,14&&Taiwan Series,15&&US Series,16&&❌,20&&Documentary,21&&Korea Series,22&&Japan Series,23&&Other's Series,24&&China Variety,25&&Korea Variety,26&&Taiwan Variety,27&&US Variety,28&&China Anime,29&&Japan Anime,30&&US Anime,31&&Suspense,32&&Anime Movies,33&&Crime,34&&Fantasy,35&&Shaw's Movies,36&&Thailand Series,37&&❌,38&&Sports,39",
+      "click":true,
       "type": "xml",
       "detailUrl": ""
     },
     {
       "id": 1,
-      "name": "无尽WJ",
-      "url": "https://api.wujinapi.me/api.php/provide/vod/at/xml/",
-      "cate":"Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Terror,10&&Feature,11&&War,12&&China Series,13&&Hong Kong Series,14&&Taiwan Series,15&&US Series,16&&❌,20&&Documentary,21&&Korea Series,22&&Japan Series,23&&Other's Series,24&&China Variety,25&&Korea Variety,26&&Taiwan Variety,27&&US Variety,28&&China Anime,29&&Japan Anime,30&&US Anime,31&&Suspense,32&&Anime Movies,33&&Crime,34&&Fantasy,35&&Shaw's Movies,36&&Thailand Series,37&&❌,38&&Sports,39",
-      "click":true,
+      "name": "if101",
+      "url": "http://demo.if101.tv/api.php/provide/vod/at/xml/",
+      "cate": "Sport,24&&Documentary,25&&Adventure,28&&Drama,29&&Action,30&&Anime Movie,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Terror,35&&Suspense,36&&Horror,37&&Song & Dance,38&&Disaster,39&&Romance,40&&Crime,41&&Sci-Fi,42&&Classic,43&&Web Movie,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&Singapore & Malaysia Series,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&ASEAN Variety,132&&Hong Kong & Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&ASEAN Anime,139&&Hong Kong & Taiwan Anime,140&&Other's Anime,142",
+      "click": true,
       "type": "xml",
       "detailUrl": ""
     },
