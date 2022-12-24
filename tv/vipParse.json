@@ -14,6 +14,12 @@
     },
     {
       "id": 1,
+      "name": "iKun 福利",
+      "ad": "no",
+      "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
       "name": "iKun",
       "ad": "no",
       "url": "https://www.ikdmjx.com/?url="
@@ -23,6 +29,12 @@
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "天猫",
+      "ad": "no",
+      "url": "https://tmjiexi.com/play/?url="
     },
     {
       "id": 1,
@@ -83,6 +95,12 @@
       "name": "森林",
       "ad": "no",
       "url": "https://sljxsl.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "黄瓜",
+      "ad": "no",
+      "url": "https://www.zy018.com/player/?url="
     },
     {
       "id": 1,
