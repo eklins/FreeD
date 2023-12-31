@@ -4,7 +4,7 @@
       "id": 1,
       "name": "海外看HWK",
       "url": "https://haiwaikan.com/api.php/provide/vod/at/xml/",
-      "cate":"体育,24&&纪录片,25&&❌,26&&冒险片,28&&剧情片,29&&动作片,30&&动画电影,31&&同性片,32&&喜剧片,33&&奇幻片,34&&恐怖片,35&&悬疑片,36&&惊悚片,37&&歌舞片,38&&灾难片,39&&爱情片,40&&犯罪片,41&&科幻片,42&&经典片,43&&网络电影,44&&战争片,117&&欧美剧,119&&日本剧,120&&韩国剧,121&&中国剧,122&&泰国剧,123&&香港剧,124&&台湾剧,125&&新马剧,126&&其它剧,127&&欧美综艺,128&&日本综艺,129&&韩国综艺,130&&中国综艺,131&&新马泰综艺,132&&港台综艺,133&&其它综艺,134&&欧美动漫,135&&日本动漫,136&&韩国动漫,137&&中国动漫,138&&新马泰动漫,139&&港台动漫,140&&其它动漫,142&&❌,143",
+      "cate":"Sport,24&&Documentary,25&&❌,26&&Adventure,28&&Drama,29&&Action,30&&Anime Movies,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Horror,35&&Suspense,36&&Thriller,37&&Musical,38&&Disaster,39&&Romance,40&&Criminal,41&&Sci-Fi,42&&Classic,43&&Web Movies,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&新马剧,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&新马泰综艺,132&&HK/Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&新马泰动漫,139&&HK/Taiwan Anime,140&&Other's Anime,142&&❌,143",
       "click":true,
       "type": "xml",
       "detailUrl": ""
