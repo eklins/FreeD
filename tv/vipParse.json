@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "1080ZYK",
+      "name": "海外看",
       "ad": "no",
-      "url": "https://vip.zykbf.com/?url="
+      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
@@ -14,27 +14,21 @@
     },
     {
       "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "海外看",
-      "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
-    },
-    {
-      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
-      "name": "飞速",
+      "name": "闪电",
       "ad": "no",
-      "url": "https://www.feisuplayer.com/m3u8/?url="
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "1080ZYK",
+      "ad": "no",
+      "url": "https://vip.zykbf.com/?url="
     },
     {
       "id": 1,
@@ -47,6 +41,24 @@
       "name": "索尼",
       "ad": "no",
       "url": "https://www.snplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "飞速",
+      "ad": "no",
+      "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "快云",
+      "ad": "no",
+      "url": "https://www.kuaiyunplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "豪华",
+      "ad": "no",
+      "url": "https://hhjiexi.com/play/?url="
     },
     {
       "id": 1,
@@ -155,12 +167,6 @@
       "name": "速更源",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子",
-      "ad": "no",
-      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
