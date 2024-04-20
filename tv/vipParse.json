@@ -2,15 +2,21 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽备用",
+      "name": "海外看",
       "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
+      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -23,12 +29,6 @@
       "name": "量子",
       "ad": "no",
       "url": "https://lziplayer.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "海外看",
-      "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
@@ -47,6 +47,24 @@
       "name": "快云",
       "ad": "no",
       "url": "https://www.kuaiyunplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "360资源（娱乐专用）",
+      "ad": "no",
+      "url": "https://www.360jiexi.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "360资源（福利专用）",
+      "ad": "no",
+      "url": "https://bofang.360jiexi.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "草榴",
+      "ad": "no",
+      "url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url="
     },
     {
       "id": 1,
