@@ -2,6 +2,15 @@
   "data": [
     {
       "id": 1,
+      "name": "1080ZYK",
+      "url": "https://api.1080zyku.com/inc/api.php/provide/vod/at/xml/",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&中国剧,12&&台湾剧,13&&韩国剧,14&&欧美剧,15&&香港剧,16&&泰国剧,17&&日本剧,18&&福利,19&&纪录片,20&&动画电影,41&&海外剧,54&&伦理片,61&&❌,62",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
       "name": "海外看HWK",
       "url": "https://haiwaikan.com/api.php/provide/vod/at/xml/",
       "cate": "Sport,24&&Documentary,25&&❌,26&&Adventure,28&&Drama,29&&Action,30&&Anime Movies,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Horror,35&&Suspense,36&&Thriller,37&&Musical,38&&Disaster,39&&Romance,40&&Criminal,41&&Sci-Fi,42&&Classic,43&&Web Movies,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&新马剧,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&新马泰综艺,132&&HK/Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&新马泰动漫,139&&HK/Taiwan Anime,140&&Other's Anime,142&&❌,143",
@@ -41,15 +50,6 @@
       "name": "飞速FS",
       "url": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&中国剧,13&&香港剧,14&&台湾剧,15&&韩国剧,16&&纪录片,20&&动漫电影,21&&日本剧,22&&泰国剧,23&&欧美剧,24&&中国动漫,25&&日本动漫,26&&欧美动漫,27&&海外动漫,28&&电影解说,29&&中国综艺,30&&台湾综艺,31&&韩国综艺,32&&欧美综艺,33&&其它片,35&&海外剧,36&&❌,37&&体育赛事,38&&短剧,39",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "1080ZYK",
-      "url": "https://api.1080zyku.com/inc/api.php/provide/vod/at/xml/",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&中国剧,12&&台湾剧,13&&韩国剧,14&&欧美剧,15&&香港剧,16&&泰国剧,17&&日本剧,18&&福利,19&&纪录片,20&&动画电影,41&&海外剧,54&&伦理片,61&&❌,62",
       "click": true,
       "type": "xml",
       "detailUrl": ""
