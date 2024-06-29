@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "海外看",
+      "name": "华为吧",
       "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
+      "url": "https://player.huawei8.live/player?url="
     },
     {
       "id": 1,
@@ -14,21 +14,39 @@
     },
     {
       "id": 1,
+      "name": "海外看",
+      "ad": "no",
+      "url": "https://dp.haiwaikan.com/index.html?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽 2024",
+      "ad": "no",
+      "url": "https://jx.wuvodbf.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
-    },
-    {
-      "id": 1,
       "name": "量子",
       "ad": "no",
       "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "天空 2024",
+      "ad": "no",
+      "url": "https://jx.huishij.com/yun/?url="
+    },
+    {
+      "id": 1,
+      "name": "新闪电",
+      "ad": "no",
+      "url": "https://www.shandianbf.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -41,6 +59,48 @@
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
+    },
+    {
+      "id": 1,
+      "name": "iKun",
+      "ad": "no",
+      "url": "https://www.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "iKun 福利",
+      "ad": "no",
+      "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "黄瓜 2024",
+      "ad": "no",
+      "url": "https://player.avre14.com:54188/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "非凡",
+      "ad": "no",
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "丫丫",
+      "ad": "no",
+      "url": "https://jx.yayazy.cc/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "淘片②",
+      "ad": "no",
+      "url": "https://www.tpvod.com/player.html?uri="
     },
     {
       "id": 1,
@@ -98,18 +158,6 @@
     },
     {
       "id": 1,
-      "name": "iKun",
-      "ad": "no",
-      "url": "https://www.ikdmjx.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "iKun 福利",
-      "ad": "no",
-      "url": "https://bofang.ikdmjx.com/?url="
-    },
-    {
-      "id": 1,
       "name": "博民",
       "ad": "no",
       "url": "https://www.bmm3u8.com/?url="
@@ -149,6 +197,12 @@
       "name": "卧龙",
       "ad": "no",
       "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "葡萄",
+      "ad": "no",
+      "url": "https://jx.putaozyw.net:166/m3u8/?url="
     },
     {
       "id": 1,
