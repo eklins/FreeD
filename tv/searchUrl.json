@@ -116,15 +116,6 @@
       "click": true,
       "type": "xml",
       "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "魔都MD",
-      "url": "https://www.moduzy.com/api.php/provide/vod/at/xml/",
-      "cate": "中国动漫,2&&日本动漫,3&&欧美动漫,4&&港台动漫,5&&动漫电影,6",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
     }
   ]
 }
