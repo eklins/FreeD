@@ -14,6 +14,12 @@
     },
     {
       "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "华为吧",
       "ad": "no",
       "url": "https://player.huawei8.live/player?url="
@@ -26,15 +32,15 @@
     },
     {
       "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "无尽 2024（备用）",
       "ad": "no",
       "url": "https://jx.wuvodbf.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "OK资源",
+      "ad": "no",
+      "url": "https://jiexi.okzyw.info/m3u8/?url="
     },
     {
       "id": 1,
@@ -71,6 +77,12 @@
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "草榴",
+      "ad": "no",
+      "url": "https://jx.caoliuzywcdnjx.com/m3u8.php?url="
     },
     {
       "id": 1,
