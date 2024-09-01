@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -14,9 +20,15 @@
     },
     {
       "id": 1,
-      "name": "无尽备用",
+      "name": "无尽 2024（备用）",
       "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
+      "url": "https://jx.wuvodbf.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "黑木耳",
+      "ad": "no",
+      "url": "https://player.heimuer.tv/index.html?url="
     },
     {
       "id": 1,
@@ -32,9 +44,15 @@
     },
     {
       "id": 1,
-      "name": "无尽 2024（备用）",
+      "name": "九月",
       "ad": "no",
-      "url": "https://jx.wuvodbf.com/dplayer/?url="
+      "url": "https://www.9yuezy.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "九月（备用）",
+      "ad": "no",
+      "url": "https://www.jiuyuezy.live/m3u8/?url="
     },
     {
       "id": 1,
