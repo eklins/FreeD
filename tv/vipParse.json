@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -32,12 +38,6 @@
     },
     {
       "id": 1,
-      "name": "如意",
-      "ad": "no",
-      "url": "https://ryplayer.com?url="
-    },
-    {
-      "id": 1,
       "name": "iKun",
       "ad": "no",
       "url": "https://www.ikdmjx.com/?url="
@@ -47,6 +47,18 @@
       "name": "iKun 福利",
       "ad": "no",
       "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "如意",
+      "ad": "no",
+      "url": "https://ryplayer.com?url="
+    },
+    {
+      "id": 1,
+      "name": "量子（2024）",
+      "ad": "no",
+      "url": "https://playerlz.com/?url="
     },
     {
       "id": 1,
@@ -122,21 +134,9 @@
     },
     {
       "id": 1,
-      "name": "飞速",
-      "ad": "no",
-      "url": "https://www.feisuplayer.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "草榴",
       "ad": "no",
       "url": "https://jx.caoliuzywcdnjx.com/m3u8.php?url="
-    },
-    {
-      "id": 1,
-      "name": "海外看",
-      "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
@@ -161,12 +161,6 @@
       "name": "淘片②",
       "ad": "no",
       "url": "https://www.tpvod.com/player.html?uri="
-    },
-    {
-      "id": 1,
-      "name": "快云",
-      "ad": "no",
-      "url": "https://www.kuaiyunplayer.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -371,12 +365,6 @@
       "name": "去插播",
       "ad": "no",
       "url": "http://18.mp8.top/000bofangqi/qushuiyin/?url="
-    },
-    {
-      "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "id": 1,
