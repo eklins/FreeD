@@ -2,9 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽备用",
+      "name": "豆瓣（P2P商业加速解析）",
       "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
+      "url": "https://www.dbjiexi.com:966/jx/?url="
+    },
+    {
+      "id": 1,
+      "name": "豆瓣（备用）",
+      "ad": "no",
+      "url": "https://dbjiexi.com:966/jx/?url="
     },
     {
       "id": 1,
@@ -17,6 +23,12 @@
       "name": "1080ZYK（优质资源库）备用",
       "ad": "no",
       "url": "https://vip.yyzyplay.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -44,15 +56,21 @@
     },
     {
       "id": 1,
-      "name": "如意",
+      "name": "量子 2025",
       "ad": "no",
-      "url": "https://ryplayer.com?url="
+      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
-      "name": "量子（2024）",
+      "name": "量子 2024",
       "ad": "no",
       "url": "https://playerlz.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "如意",
+      "ad": "no",
+      "url": "https://ryplayer.com?url="
     },
     {
       "id": 1,
