@@ -2,18 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "豆瓣（P2P商业加速解析）",
-      "ad": "no",
-      "url": "https://www.dbjiexi.com:966/jx/?url="
-    },
-    {
-      "id": 1,
-      "name": "豆瓣（备用）",
-      "ad": "no",
-      "url": "https://dbjiexi.com:966/jx/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -29,12 +17,6 @@
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽（备用）2024",
-      "ad": "no",
-      "url": "https://jx.wuvodbf.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -65,6 +47,18 @@
       "name": "量子 2024",
       "ad": "no",
       "url": "https://playerlz.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "豆瓣（P2P商业加速解析）",
+      "ad": "no",
+      "url": "https://www.dbjiexi.com:966/jx/?url="
+    },
+    {
+      "id": 1,
+      "name": "豆瓣（备用）",
+      "ad": "no",
+      "url": "https://dbjiexi.com:966/jx/?url="
     },
     {
       "id": 1,
@@ -323,6 +317,18 @@
       "name": "黄瓜",
       "ad": "no",
       "url": "https://www.zy018.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "奥斯卡（2025）①",
+      "ad": "no",
+      "url": "https://askvodbf.com/play.html?url="
+    },
+    {
+      "id": 1,
+      "name": "奥斯卡（2025）②",
+      "ad": "no",
+      "url": "https://askvodbf.com/?url="
     },
     {
       "id": 1,
