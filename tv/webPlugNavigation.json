@@ -5,31 +5,64 @@
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "",
       "ads": "",
       "webUrl": "http://www.88kanqiu.cc/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "爱体育⚽",
+      "name": "优直播网⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://itiyu5.tv/spweb/m/schedule",
+      "webUrl": "https://www.yoozhibo.cc",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "515直播⚽",
+      "name": "直播豆⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://www.515.tv/",
+      "webUrl": "https://m.zhibodou.com/zuqiu",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "WikiSport⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://wikisport.cc/schedule/soccer",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "74直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.74.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "90直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.90zhibo.com/live/zuqiu/",
       "webOpen": true,
       "click": true
     },
@@ -45,6 +78,39 @@
       "click": true
     },
     {
+      "name": "321直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.321tvzb.com/events",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "515直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://www.515.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "956直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.956.live/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "五楼直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
@@ -56,24 +122,13 @@
       "click": true
     },
     {
-      "name": "JRS直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://www.jrszhibo2018.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "乐视吧⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://my.letv8.cc/list.html?id=1",
+      "webUrl": "https://my.letv8.cc/list_soccer_1.html",
       "webOpen": true,
       "click": true
     },
@@ -89,19 +144,19 @@
       "click": true
     },
     {
-      "name": "360看球⚽",
+      "name": "56直播网⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.360kanqiu.com/",
+      "webUrl": "http://56zhibo.cc/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "考古纪录片",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JbDAisQCMVx6Q-zJ9SxT7aEfVGHZA7Jh9A&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGj0Gi7GG1itSxP8r-5c6AxMAsluHl1FnhQ&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -199,6 +254,28 @@
       "click": true
     },
     {
+      "name": "济公（台语）周明增",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUoeeNc6sh8ES4irpJVxgkh4gn-PBz1NrpA&usqp=CAU",
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PL30o6wc1jf3G1HGqmDMadnfhrVRk-aJir",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "中天新闻",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAUrV-7jvRxGQ",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.youtube.com/live/oIgbl7t0S_w?feature=share",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "YouTube",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK_TMom4MEq9GrwA4uRP4q9cl2vSD5WlgMw&usqp=CAU",
       "keyDownPlay": false,
@@ -221,30 +298,41 @@
       "click": true
     },
     {
-      "name": "KTK卡通站",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7aiJ4UQK5jVtQYWjzhm7KnwOa8f7v-3dhA&usqp=CAU",
+      "name": "RTM Klik",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1PrXwvJl_6WDPQDUMvzFEpxv8DTQnb4z3w&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.ktkkt.top/",
+      "webUrl": "https://rtmklik.rtm.gov.my/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "海兔影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
+      "name": "人人影视",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.haitu.tv/",
+      "webUrl": "https://www.renren.pro/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "欧乐影院",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.olevod.com/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "爱壹帆",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -254,30 +342,8 @@
       "click": true
     },
     {
-      "name": "泥巴影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.mudvod.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "欧乐影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.oulevod.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "小宝影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -287,41 +353,19 @@
       "click": true
     },
     {
-      "name": "努努影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.nnyy6.top/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "枫林网",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://imaple.co/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "Auete影视",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://auete.com/",
+      "webUrl": "https://auete.pro/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "韩剧宝",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -331,21 +375,36 @@
       "click": true
     },
     {
-      "name": "蛋蛋赞影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "name": "西瓜卡通",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.dandanzan10.top/",
+      "webUrl": "https://cn.xgcartoon.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "西瓜视频(Web)",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "name": "西瓜卡通（Web）",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
+      "type": "webPlug",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "",
-      "webUrl": "https://www.ixigua.com/channel/dianying/",
+      "webUrl": "https://cn.xgcartoon.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "香港动漫网",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.hkanime.com.hk/",
       "webOpen": true,
       "click": true
     },
