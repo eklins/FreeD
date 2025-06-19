@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "西瓜播放器",
+      "ad": "no",
+      "url": "https://onepage.czl.net/xg/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -26,15 +32,15 @@
     },
     {
       "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "黑木耳",
       "ad": "no",
       "url": "https://hoplayer.com/index.html?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
        "id": 1,
@@ -107,6 +113,18 @@
       "name": "18X 丝袜",
       "ad": "no",
       "url": "https://help.siwam3u8.com:5278/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "18X 黄色仓库",
+      "ad": "no",
+      "url": "https://jx.bfhsck.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "茅台",
+      "ad": "no",
+      "url": "https://mtjiexi.cc:966/?url="
     },
     {
       "id": 1,
