@@ -2,6 +2,18 @@
   "data": [
     {
       "id": 1,
+      "name": "西瓜播放器",
+      "ad": "no",
+      "url": "https://onepage.czl.net/xg/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽 2025",
+      "ad": "no",
+      "url": "https://jx.xllmcms.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -26,6 +38,12 @@
     },
     {
       "id": 1,
+      "name": "无尽 2025",
+      "ad": "no",
+      "url": "https://jx.xllmcms.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "西瓜播放器",
       "ad": "no",
       "url": "https://onepage.czl.net/xg/?url="
@@ -41,12 +59,6 @@
        "name": "爱奇艺",
        "ad": "no",
        "url": "https://www.iqiyizyjx.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽 2025",
-      "ad": "no",
-      "url": "https://jx.xllmcms.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -86,6 +98,12 @@
     },
     {
       "id": 1,
+      "name": "最大",
+      "ad": "no",
+      "url": "https://jx.zuidplay.com/m3u8Player/?url="
+    },
+    {
+      "id": 1,
       "name": "HLS Player",
       "ad": "no",
       "url": "https://www.hlsplayer.org/play?url="
@@ -101,18 +119,6 @@
       "name": "如意",
       "ad": "no",
       "url": "https://ryplayer.com?url="
-    },
-    {
-      "id": 1,
-      "name": "华为吧",
-      "ad": "no",
-      "url": "https://player.huawei8.live/player?url="
-    },
-    {
-      "id": 1,
-      "name": "华为吧（旧）",
-      "ad": "no",
-      "url": "https://dp.hw8.live/player/?url="
     },
     {
       "id": 1,
